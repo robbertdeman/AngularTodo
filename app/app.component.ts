@@ -21,22 +21,22 @@ export class AppComponent {
     }
 
     //functie maken die de item checked
-    setCompleted() {
+    setCompleted(   ) {
 
     }
 
     //functie maken die de item removed
-    removeTodo() {
+    removeTodo(   ) {
 
     }
 
     //functie maken die de kijkt of er op enter gedrukt is
-    doneTyping() {
+    doneTyping(    ) {
 
     }
 
     //item aanmaken
-    addTodo() {
+    addTodo(    ) {
 
     }
 
